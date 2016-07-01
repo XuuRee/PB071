@@ -14,5 +14,5 @@ One disadvantage of Ascii85 is that encoded data may contain escape characters s
 
 Source: Wikipedia.org
 
-# Task in seminar:
+## Task in seminar:
 https://cecko.eu/public/pb071/hw01_2016
